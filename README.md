@@ -1,4 +1,27 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<center>
+<img src="https://i.imgur.com/srey8OQ.png" width=64 height=64>
+<h1>Rebuild Earth Frontend</h1>
+<blockquotze>Official frontend repo for Rebuild earth</blockquotze>
+</center>
+
+# Start here:
+
+Read the steps below to start contributing:
+
+- Fork the repo
+- Use yarn instead of npm
+- `yarn install`
+- `yarn start` to run dev server
+
+## Dir structure
+
+```
+src
+|-
+|
+
+```
+
 
 ## Available Scripts
 
