@@ -17,8 +17,9 @@ Read the steps below to start contributing:
 
 ```
 src
-|-
-|
+|-components    //place your components here
+|-pages         //top level page components
+...
 
 ```
 
